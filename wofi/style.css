@@ -1,0 +1,10 @@
+* {
+    font-family: Hack, monospace;
+    font-size: 18px;
+}
+
+
+
+#entry:selected{
+    background-color: #285577;
+}
